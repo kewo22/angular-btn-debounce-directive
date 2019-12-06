@@ -8,7 +8,6 @@ import {
   Output
 } from "@angular/core";
 import { Subject, Subscription } from "rxjs";
-// import { Subscription } from 'rxjs/Subscription';
 import "rxjs/add/operator/debounceTime";
 
 @Directive({
